@@ -36,7 +36,7 @@ Click the link below to view the working demo of the clone:
 
 ## 🧑‍💻 How to Use This Project
 
-1. Clone the repository or [Download ZIP](https://github.com/Sathvika2955/Amazon-Clone/archive/refs/heads/main.zip)
+1. Clone the repository
 2. Extract the folder if needed
 3. Open the folder in any browser by double-clicking on `index.html`
 
